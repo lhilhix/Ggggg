@@ -1,0 +1,8 @@
+{
+  "name": "Chato",
+  "description": "A high-end, glassmorphic AI chat application featuring Gemini 3 Flash for intelligent, real-time conversations and image analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
